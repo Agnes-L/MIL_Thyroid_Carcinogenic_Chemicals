@@ -1,4 +1,4 @@
-# Thyroid Cancer Exposome: Core Reproducibility Package
+# Serum exposomics and multiple instance learning prioritize chemicals associated with thyroid cancer
 
 This repository contains the two core computational packages used in the thyroid cancer exposome study:
 
